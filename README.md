@@ -1,6 +1,6 @@
 Cyberpunk Flexbox, a web project using Flexbox Layout principle, HTML, SASS, and Javascript. Designed for a 15" laptop monitor screen and not responsive.
 
-Site Live @:
+Site Live @: https://pavilionjeromeuses.github.io/cyberpunkflexbox/
 
 Original Design File from Freepik
 
